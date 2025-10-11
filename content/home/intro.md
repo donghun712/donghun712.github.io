@@ -9,8 +9,10 @@ headless: true
 weight: 10
 
 author: admin
-#design:
-#  background:
+design:
+  background:
+  image:
+      filename: cs-back.png
 #    color: '#090a0b'
 #    text_color_light: true
 #    video:
