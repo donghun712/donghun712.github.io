@@ -13,7 +13,7 @@ design:
   background:
 #    color: '#090a0b'
     image:
-      filename: cs_back_image.jpg
+      filename: cs_back_image
     text_color_light: true
 #    video:
 #      path:  # enter filename of a video in /assets/media
