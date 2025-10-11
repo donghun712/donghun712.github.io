@@ -3,8 +3,8 @@
 title: 김동훈
 
 # Full name (for Seo)
-first_name: Donghun
-last_name: Kim
+first_name: 동훈
+last_name: 김
 
 # Is this the primary user of the site?
 superuser: true
@@ -44,7 +44,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+#   form "mailto:nkdonghun712@gmail.com" or "#contact" for contact widget.
 social:
   - icon: envelope
     icon_pack: fas
