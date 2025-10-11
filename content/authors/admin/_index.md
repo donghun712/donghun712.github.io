@@ -6,28 +6,29 @@ title: 김동훈
 first_name: 동훈
 last_name: 김
 
+# Status emoji
+status:
+  icon: ☕️
+
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
 role: '대학생'
 
-# Status emoji
-status:
-  icon: ☕️
 
 # Organizations/Affiliations
-#organizations:
-#- name: 전북대학교
-#  url: "https://www.jbnu.ac.kr/web/index.do"
+organizations:
+- name: 전북대학교
+  url: "https://www.jbnu.ac.kr/web/index.do"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-#interests:
-#- Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
+interests:
+- Artificial Intelligence
+- Computational Linguistics
+- Information Retrieval
 
 #education:
 #  courses:
