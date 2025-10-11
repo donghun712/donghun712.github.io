@@ -2,5 +2,5 @@
 design:
   background:
     image:
-      filename: cs-back.jpg
+      filename: cs-back.png
 ---
