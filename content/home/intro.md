@@ -11,10 +11,12 @@ weight: 10
 author: admin
 design:
   background:
-    color: '#090a0b'
+#    color: '#090a0b'
+    image:
+      filename: cs_back_image.jpg
     text_color_light: true
-    video:
-      path:  # enter filename of a video in /assets/media
+#    video:
+#      path:  # enter filename of a video in /assets/media
 #  css_class: fullscreen
 ---
 
