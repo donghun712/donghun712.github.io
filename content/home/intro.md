@@ -9,12 +9,10 @@ headless: true
 weight: 10
 
 author: admin
-design:
-  background:
+#design:
+#  background:
 #    color: '#090a0b'
-    image:
-      filename: cs_back_image
-    text_color_light: true
+#    text_color_light: true
 #    video:
 #      path:  # enter filename of a video in /assets/media
 #  css_class: fullscreen
