@@ -2,11 +2,15 @@
 # Display name
 title: 김동훈
 
+# Full name (for Seo)
+first_name: Donghun
+last_name: Kim
+
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: ''
+role: '대학생'
 
 # Status emoji
 status:
@@ -14,8 +18,8 @@ status:
 
 # Organizations/Affiliations
 #organizations:
-#- name: 腾讯
-#  url: ""
+#- name: 전북대학교
+#  url: "https://www.jbnu.ac.kr/web/index.do"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
