@@ -11,7 +11,7 @@ weight: 10
 author: admin
 design:
   background:
-    color: '#090a0b'
+    #color: '#090a0b'
     text_color_light: true
     video:
       path:  cs-back.png
