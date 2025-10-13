@@ -3,6 +3,6 @@
 design:
   background:
     image:
-      filename: "media/cs-back.png"
+      filename: "media/cs_back.png"
 
 ---
