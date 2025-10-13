@@ -49,7 +49,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'about/#contact' # For a direct email link, use "mailto:nkdonghun712@gmail.com".
+    link: mailto:nkdonghun712@gmail.com # For a direct email link, use "mailto:nkdonghun712@gmail.com".
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/wowchemy
