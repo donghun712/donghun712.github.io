@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Kdh Portfolio # Website name
-baseURL: 'https://donghun712.github.io/' # Website URL
+baseURL: donghun712 # Website URL
 
 ############################
 ## PAGE OPTIONS
