@@ -13,9 +13,9 @@ design:
   background:
     #color: '#090a0b'
     text_color_light: true
-    video:
-      path:  cs-back.png
-  css_class: fullscreen
+    image:
+      filename:  cs-back.png
+  #css_class: fullscreen
 ---
 
 👋 Hi, there! I'm **Alice**, a machine learning researcher at Netflix.
