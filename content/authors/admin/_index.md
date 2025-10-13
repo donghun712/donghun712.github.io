@@ -50,9 +50,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:nkdonghun712@gmail.com # For a direct email link, use "mailto:nkdonghun712@gmail.com".
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com
+ # - icon: twitter
+  #  icon_pack: fab
+   # link: https://twitter.com
   - icon: instagram
     icon_pack: fab
     link: https://instagram.com/donghun712
