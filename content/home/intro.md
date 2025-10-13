@@ -1,4 +1,13 @@
 ---
+
+
+
+design:
+  background:
+    image:
+      filename: media/cs_back.png
+
+
 # Use the Intro widget of the Blog template
 widget: about.avatar
 
