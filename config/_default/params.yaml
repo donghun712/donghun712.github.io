@@ -22,12 +22,12 @@ marketing:
     twitter: 'GetResearchDev'
   analytics:
     google_analytics: ''
-    baidu_tongji: ''
+    #baidu_tongji: ''
     google_tag_manager: ''
     microsoft_clarity: ''
   verification:
     google: ''
-    baidu: ''
+    #baidu: ''
 
 # Site header
 
