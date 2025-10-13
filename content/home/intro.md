@@ -14,7 +14,7 @@ design:
     #color: '#090a0b'
     text_color_light: true
     image:
-      filename:  cs-back.png
+      filename:  "cs-back.png"
   #css_class: fullscreen
 ---
 
