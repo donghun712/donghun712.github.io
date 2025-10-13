@@ -14,7 +14,7 @@ design:
     color: '#090a0b'
     text_color_light: true
     video:
-      path:  cs-back
+      path:  cs-back.png
   css_class: fullscreen
 ---
 
