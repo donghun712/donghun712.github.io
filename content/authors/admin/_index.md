@@ -82,4 +82,4 @@ MySQL로 스키마 설계와 기본 쿼리 최적화를 꾸준히 연습하고 �
 관심 분야는 데이터베이스, 알고리즘, 그리고 이를 뒷받침하는 수학입니다.  
 팀 프로젝트에서는 역할을 명확히 나누고 일정 관리에 책임감을 갖는 편입니다.
 
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} 제 이력서를 다운로드 받아보세요.
