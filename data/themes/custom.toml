@@ -29,6 +29,8 @@ name = "Starter Blog"
   link = "#ffffff"
   link_hover = "#dddddd"
 
+  background = "#000000"
+  
   menu_primary = "#000000"
   menu_text = "#ffffff"
   menu_text_active = "#ffffff"
@@ -37,4 +39,4 @@ name = "Starter Blog"
   home_section_odd = "#0a0a0a"
   home_section_even = "#121212"
 
-  background = "#000000"
+  

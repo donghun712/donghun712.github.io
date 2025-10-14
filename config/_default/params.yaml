@@ -6,10 +6,9 @@
 # Appearance
 
 appearance:
-  mode: light
-  color: blue
   theme_day: custom
   theme_night: custom
+  theme_black: custom
   font: minimal
   font_size: L
   
