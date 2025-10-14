@@ -116,8 +116,23 @@ ul.network-icon .big-icon {
   font-size: 0.8rem;
 }
 
-[data-theme="black"] {
+
+/* Black theme */
+[data-theme="black"],
+.black {
   background-color: #000;
   color: #fff;
 }
-[data-theme="black"] a { color: #fff; }
+[data-theme="black"] a,
+.black a {
+  color: #fff;
+}
+
+/* 홈 섹션 / 카드 / footer 등 필요한 요소도 조정 */
+[data-theme="black"] .home-section,
+.black .home-section { background-color: #0a0a0a; }
+[data-theme="black"] .page-footer,
+.black .page-footer { background-color: #000; }
+[data-theme="black"] .card-simple,
+.black .card-simple { background-color: #111; color: #eee; }
+
