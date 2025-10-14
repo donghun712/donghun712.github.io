@@ -38,7 +38,7 @@ header:
   navbar:
     enable: true
     blox: "navbar"
-    align: "center"
+    align: center
     fixed_to_top: true
     logo:
       # Logo text
