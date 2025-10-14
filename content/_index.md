@@ -2,7 +2,7 @@
 design:
   background:
     image:
-      filename: cs-back.png
+      filename: cs-back.svg
       size: cover
       position: center
 ---
