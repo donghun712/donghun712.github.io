@@ -23,6 +23,7 @@ author: admin
     #video:
      # path:  # enter filename of a video in /assets/media
   #css_class: fullscreen
+  
 ---
 
 👋 안녕하세요, 저는 전북대학교에서 컴퓨터 공학을 공부하고 있는 **김동훈** 입니다.
