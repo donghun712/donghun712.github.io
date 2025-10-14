@@ -43,7 +43,7 @@ header:
     show_day_night: true
     show_search: true
     show_translations: true
-    hide_language_name: false
+    hide_language_name: true
     highlight_active_link: false
 
 footer:
