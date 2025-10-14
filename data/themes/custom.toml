@@ -28,14 +28,11 @@ name = "Starter Blog"
   primary = "#000000"
   link = "#ffffff"
   link_hover = "#dddddd"
-
   background = "#000000"
-  
   menu_primary = "#000000"
   menu_text = "#ffffff"
   menu_text_active = "#ffffff"
   menu_title = "#ffffff"
-
   home_section_odd = "#0a0a0a"
   home_section_even = "#121212"
 

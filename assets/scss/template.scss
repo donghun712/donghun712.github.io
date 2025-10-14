@@ -115,3 +115,9 @@ ul.network-icon .big-icon {
 .wg-about .portrait-title h3 {
   font-size: 0.8rem;
 }
+
+[data-theme="black"] {
+  background-color: #000;
+  color: #fff;
+}
+[data-theme="black"] a { color: #fff; }
