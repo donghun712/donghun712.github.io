@@ -9,10 +9,7 @@ headless: true
 weight: 10
 
 author: admin
-design:
-  background:
-    image:
-      filename: cs-back.png
+
 #design:
 #  background:
 #    color: '#090a0b'
