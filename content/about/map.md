@@ -8,23 +8,15 @@ widget: contact
 headless: true
 
 
-
 # Order that this section appears on the page.
 
 weight: 52
-
-
 
 title: 대학 주소
 
 subtitle:
 
-
-
 content:
-
-
-
   # Location coordinates
 
   coordinates:
@@ -32,8 +24,6 @@ content:
     latitude: '35.8460286'
 
     longitude: '127.1344631'
-
-
 
 design:
 
