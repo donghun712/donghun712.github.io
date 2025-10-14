@@ -12,8 +12,15 @@ author: admin
 
 design:
   background:
-    color: '#090a0b'
-    text_color_light: true
+    image:
+      filename: cs-back.svg
+      size: cover
+      position: center
+      
+#design:
+ # background:
+  #  color: '#090a0b'
+   # text_color_light: true
     #video:
      # path:  # enter filename of a video in /assets/media
   #css_class: fullscreen
