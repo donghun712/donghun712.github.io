@@ -39,7 +39,13 @@ header:
     enable: true
     blox: "navbar"
     align: "center"
-    show_logo: true
+    fixed_to_top: true
+    logo:
+      # Logo text
+      text: "KDH"
+      # Logo filename in `assets/media/` folder
+      filename: "icon.png"
+    #show_logo: true
     show_language: true
     show_day_night: true
     show_search: true
