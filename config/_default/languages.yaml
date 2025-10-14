@@ -12,11 +12,9 @@ ko:
 # Uncomment the lines below to configure your website in a second language.
 us:
   languageCode: us-US 
-  title: KDH Portfolio
-  weight: 2
-
+  weight: 1
   #contentDir: content/zh
-  #title: Chinese website title...
+  title: KDH Portfolio
   #params:
    # description: Site description in Chinese...
   #menu:
