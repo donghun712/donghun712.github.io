@@ -10,10 +10,9 @@ ko:
   #contentDir: content/en
 
 # Uncomment the lines below to configure your website in a second language.
-us:
-  languageCode: us-US 
-  #weight: 1
-  contentDir: content/us
+en:
+  languageCode: en-US
+  contentDir: content/en
   title: KDH Portfolio
   params:
     description: Site description in English...
