@@ -48,6 +48,9 @@ social:
  # - icon: twitter
   #  icon_pack: fab
    # link: https://twitter.com
+  - icon: naver
+    icon_pack: fab
+    link: mailto:nkehdgns@naver.com  
   - icon: instagram
     icon_pack: fab
     link: https://instagram.com/donghun712
