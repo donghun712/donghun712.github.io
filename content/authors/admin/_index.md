@@ -48,6 +48,9 @@ social:
  # - icon: twitter
   #  icon_pack: fab
    # link: https://twitter.com
+  - icon: nats
+    icon_pack: fab
+    link: mailto:nkehdgns712@naver.com 
   - icon: facebook
     icon_pack: fab
     link: https://www.facebook.com/gimdonghun.984618/
