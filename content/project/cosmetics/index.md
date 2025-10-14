@@ -1,8 +1,8 @@
 ---
-title: Cosmetics Semantic Search
-summary: Write about your project here...
+title: DB 학습
+summary: 데이터베이스 학습 및 sqld 준비
 tags:
-  - NLP
-date: 2022-01-01
-external_link: http://github.com
+  - DB
+date: 2025-08-04
+external_link: https://hdatalab.co.kr/
 ---

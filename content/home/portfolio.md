@@ -28,12 +28,12 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Machine Learning
-      tag: ML
-    - name: Computer Vision
-      tag: CV
-    - name: NLP
-      tag: NLP
+    - name: Computer Language Learning
+      tag: CL
+    - name: Database Learning
+      tag: DB
+    - name: Algorithm Learning
+      tag: AL
 
 design:
   columns: '1'

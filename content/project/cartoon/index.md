@@ -1,8 +1,8 @@
 ---
-title: Cartoon Face Generator
-summary: Write about your project here...
+title: C언어 학습
+summary: 기초적인 언어인 C언어 학습
 tags:
-  - CV
-date: 2022-01-01
-external_link: http://github.com
+  - CL
+date: 2021-03-01
+external_link: https://www.inflearn.com/
 ---

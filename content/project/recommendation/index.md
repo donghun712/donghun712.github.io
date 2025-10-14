@@ -1,8 +1,8 @@
 ---
-title: Recommendation Systems
-summary: Write about your project here...
+title: 알고리즘 공부
+summary: 프로그래밍을 위한 알고리즘 공부
 tags:
-  - ML
-date: 2022-01-01
-external_link: http://github.com
+  - AL, CL
+date: 2024-09-02
+external_link: https://www.acmicpc.net/
 ---
