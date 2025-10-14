@@ -37,9 +37,7 @@ marketing:
 header:
   navbar:
     enable: true
-    blox: navbar
     align: center
-    fixed_to_top: true
     logo:
       # Logo text
       text: "KDH"
@@ -100,7 +98,7 @@ features:
       category: ''
       category_id: ''
   search:
-    provider: "pagefind"
+    provider: "Wowchemy"
     algolia:
       app_id: ''
       api_key: ''
