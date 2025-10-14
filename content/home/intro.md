@@ -14,7 +14,7 @@ design:
   background:
     image:
       filename: "cs-back.svg"
-      
+      css_class: fullscreen
 
 #design:
  # background:
