@@ -45,7 +45,7 @@ header:
       text: "KDH"
       # Logo filename in `assets/media/` folder
       filename: "icon.png"
-    #show_logo: true
+    show_logo: true
     show_language: true
     show_day_night: true
     show_search: true
