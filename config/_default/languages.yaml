@@ -13,6 +13,8 @@ ko:
 us:
   languageCode: us-US 
   title: KDH Portfolio
+  weight: 2
+
   #contentDir: content/zh
   #title: Chinese website title...
   #params:
