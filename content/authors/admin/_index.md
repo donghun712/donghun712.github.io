@@ -48,9 +48,9 @@ social:
  # - icon: twitter
   #  icon_pack: fab
    # link: https://twitter.com
-  - icon: mail
+  - icon: facebook
     icon_pack: fab
-    link: mailto:nkehdgns@naver.com  
+    link: https://www.facebook.com/gimdonghun.984618/
   - icon: instagram
     icon_pack: fab
     link: https://instagram.com/donghun712
