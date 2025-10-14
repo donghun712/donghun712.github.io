@@ -37,7 +37,8 @@ marketing:
 header:
   navbar:
     enable: true
-    align: center
+    blox: "navbar"
+    align: "center"
     show_logo: true
     show_language: true
     show_day_night: true
