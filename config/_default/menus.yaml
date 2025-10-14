@@ -10,9 +10,21 @@ main:
   - name: About
     url: about/
     weight: 20
-  - name: Projects
+  - name: 학습 내용
     url: project/
     weight: 30
+  - name: C언어 공부
+    parent: 학습 내용
+    url: project/c_learn/
+    weight: 10
+  - name: 데이터베이스 공부
+    parent: 학습 내용
+    url: project/db_learn/
+    weight: 20
+  - name: 알고리즘 공부
+    parent: 학습 내용 
+    url: project/algorithm/
+    weight: 30  
   - name: Categories    
     url: categories/
     weight: 40
