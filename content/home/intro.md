@@ -13,7 +13,7 @@ author: admin
 design:
   background:
     image:
-      filename: cs-back.svg
+      filename: "cs-back.svg"
       
 
 #design:
