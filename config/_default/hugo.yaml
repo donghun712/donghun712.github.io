@@ -27,6 +27,28 @@ cascade:
 defaultContentLanguage: ko
 hasCJKLanguage: true
 defaultContentLanguageInSubdir: false
+disableDefaultLanguageRedirect: false
+languages:
+  ko:
+    contentDir: content/ko
+    disabled: false
+    languageCode: ko-KR
+    languageDirection: ltr
+    languageName: Korean
+    params:
+      subtitle: Referenz, Tutorials und Erklärungen
+    title: Projekt Dokumentation
+    weight: 1
+  en:
+    contentDir: content/en
+    disabled: false
+    languageCode: en-US
+    languageDirection: ltr
+    languageName: English
+    params:
+      subtitle: Reference, Tutorials, and Explanations
+    title: Project Documentation
+    weight: 2
 removePathAccents: true
 
 ############################
