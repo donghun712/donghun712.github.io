@@ -12,7 +12,7 @@ ko:
 # Uncomment the lines below to configure your website in a second language.
 us:
   languageCode: us-US 
-  weight: 1
+  #weight: 1
   contentDir: content/us
   title: KDH Portfolio
   params:
