@@ -10,11 +10,11 @@ weight: 10
 
 author: admin
 
-design:
-  background:
-    image:
-      filename: "cs-back.svg"
-      css_class: fullscreen
+#design:
+ # background:
+  #  image:
+   #   filename: "cs-back.svg"
+    #  css_class: fullscreen
 
 #design:
  # background:
