@@ -12,7 +12,7 @@ headless: true
 
 weight: 52
 
-title: 대학 주소
+title: 대학교 주소
 
 subtitle:
 
@@ -21,9 +21,9 @@ content:
 
   coordinates:
 
-    latitude: '35.8460286'
+    latitude: '35.846015'
 
-    longitude: '127.1344631'
+    longitude: '127.134543'
 
 design:
 
