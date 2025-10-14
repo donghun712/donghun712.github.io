@@ -14,9 +14,8 @@ design:
   background:
     image:
       filename: cs-back.svg
-      size: cover
-      position: center
       
+
 #design:
  # background:
   #  color: '#090a0b'
