@@ -9,6 +9,8 @@ last_name: 김
 # Status emoji
 status:
   icon: 🍴
+  icon_pack: fab
+  link: https://www.yogiyo.co.kr/mobile/#/
 
 # Is this the primary user of the site?
 superuser: true
