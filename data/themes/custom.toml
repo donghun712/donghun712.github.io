@@ -12,13 +12,13 @@ name = "Starter Blog"
   menu_title = "#2b2b2b"
 
   # Home sections
-  home_section_odd = "rgba(246, 248, 233, 1)"
-  home_section_even = "rgba(252, 251, 237, 1)"
+  home_section_odd = "rgba(248, 248, 233, 1)"
+  home_section_even = "rgba(253, 250, 200, 1)"
 
 [dark]
   primary = "#2a98f1ff"
   link = "#3ba3f9ff"
-  link_hover = "#3fa5f8ff"
+  link_hover = "#c171ffff"
   background = "rgba(29, 37, 54, 1)"
   home_section_odd = "rgba(44, 58, 87, 1)"
   home_section_even = "rgb(26, 32, 44)"
