@@ -6,31 +6,31 @@ name = "Starter Blog"
   primary = "#2962ff"
 
   # Menu
-  menu_primary = "rgb(247, 250, 252)"
+  menu_primary = "rgba(248, 250, 238, 1)"
   menu_text = "#34495e"
   menu_text_active = "#2962ff"
   menu_title = "#2b2b2b"
 
   # Home sections
-  home_section_odd = "rgb(247, 250, 252)"
-  home_section_even = "rgb(247, 250, 252)"
+  home_section_odd = "rgba(246, 248, 233, 1)"
+  home_section_even = "rgba(252, 251, 237, 1)"
 
 [dark]
-  primary = "#bbdefb"
-  link = "#bbdefb"
-  link_hover = "#bbdefb"
-  background = "rgb(26, 32, 44)"
-  home_section_odd = "rgb(26, 32, 44)"
+  primary = "#2a98f1ff"
+  link = "#3ba3f9ff"
+  link_hover = "#3fa5f8ff"
+  background = "rgba(29, 37, 54, 1)"
+  home_section_odd = "rgba(44, 58, 87, 1)"
   home_section_even = "rgb(26, 32, 44)"
   menu_primary = "rgb(26, 32, 44)"
 
 [black]
   primary = "#000000"
-  link = "#ffffff"
+  link = "#f9e9e9ff"
   link_hover = "#dddddd"
-  background = "#000000"
-  menu_primary = "#000000"
-  menu_text = "#ffffff"
+  background = "#101010ff"
+  menu_primary = "#1b1a1aff"
+  menu_text = "#f9dbdbff"
   menu_text_active = "#ffffff"
   menu_title = "#ffffff"
   home_section_odd = "#0a0a0a"
