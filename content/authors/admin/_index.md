@@ -8,7 +8,7 @@ last_name: 김
 
 # Status emoji
 status:
-  - icon: 🍴
+  - icon: "🍴"
     icon_pack: fab
     link: https://www.yogiyo.co.kr/mobile/#/
  
