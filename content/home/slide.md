@@ -1,6 +1,6 @@
 ---
 
-widget: slider
+widget: slides
 
 headless: true
 
