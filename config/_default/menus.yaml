@@ -23,7 +23,7 @@ main:
     weight: 20
   - name: 알고리즘 공부
     parent: 학습 내용 
-    url: project/algorithm/
+    url: project/algorithm_learn/
     weight: 30  
   - name: 취미   
     url: slider/

@@ -17,7 +17,7 @@ content:
       background:
         media: icon.png
     - title: "영화감상"
-      backgroung:
+      background:
         media: icon.png
 
 ---
