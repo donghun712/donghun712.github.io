@@ -6,11 +6,10 @@ slides:
   transition: fade   # 전환 효과 설정
 draft: false
 ---
-
+#첫번쨰 슬라이드
 ????
 
 ---
-
+#두번째 슬라이드
 ???Afsdfsad?
 
----
