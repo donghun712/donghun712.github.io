@@ -6,9 +6,9 @@ headless: true
 
 weight: 30
 
-title: '취미'
-
-content:
-  page_type: slider
+sections:
+    -block: slider
+    content: slider
+  
 
 ---
