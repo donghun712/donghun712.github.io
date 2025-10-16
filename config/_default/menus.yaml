@@ -7,7 +7,7 @@ main:
   - name: Home
     url: /
     weight: 10
-  - name: About
+  - name: 소개
     url: about/
     weight: 20
   - name: 학습 내용
