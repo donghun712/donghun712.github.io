@@ -109,6 +109,10 @@ features:
     api_key: ''
     zoom: 15
 
+slides:
+  theme: black # Reveal JS theme name
+  highlight_style: dracula # Highlight JS theme name
+
 extensions:
   cms:
     branch: main
