@@ -19,12 +19,12 @@ content:
   slides:
     - title: "국궁"
       background:
-        media: media/icon1.png
+        media: preview.png
     - title: "게임"
       background:
-        media: media/icon.png
+        media: preview.png
     - title: "영화감상"
       background:
-        media: media/icon.png
+        media: preview.png
 
 ---

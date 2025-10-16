@@ -1,7 +1,7 @@
 ---
 # Display name
 title: 김동훈
-
+tags: [김동훈, 전북대, 전북대학교]
 # Full name (for Seo)
 first_name: 동훈
 last_name: 김
