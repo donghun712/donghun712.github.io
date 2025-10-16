@@ -20,7 +20,7 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: ''
+    org_name: '김동훈'
     description: 'A highly-customizable Hugo blog theme powered by Wowchemy website builder.'
     twitter: 'GetResearchDev'
   analytics:
@@ -38,11 +38,11 @@ header:
   navbar:
     enable: true
     align: center
-    logo:
+    #logo:
       # Logo text
-      text: "KDH"
+      #text: "KDH"
       # Logo filename in `assets/media/` folder
-      filename: "icon.png"
+      #filename: "icon.png"
     show_logo: true
     show_language: true
     show_day_night: true
