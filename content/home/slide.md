@@ -12,10 +12,10 @@ content:
   slides:
     - title: "국궁"
       background:
-        media: preview.jpg
+        media: icon.png
     - title: "게임"
       background:
-        media: featured1.jpg
+        media: icon.png
     - title: "영화감상"
       backgroung:
         media: icon.png
