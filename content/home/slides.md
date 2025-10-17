@@ -40,10 +40,10 @@
   <div class="slideshow-container">
     <button class="slide-btn prev" onclick="plusSlides(-1)">&#10094;</button>
     <button class="slide-btn next" onclick="plusSlides(1)">&#10095;</button>
-    <img class="mySlides" src="featured1.jpg" alt="사진1">
-    <img class="mySlides" src="featured2.jpg" alt="사진2">
-    <img class="mySlides" src="featured3.jpg" alt="사진3">
-    <img class="mySlides" src="featured4.jpg" alt="사진4">
+    <img class="mySlides" src="image1.jpg" alt="사진1">
+    <img class="mySlides" src="image2.jpg" alt="사진2">
+    <img class="mySlides" src="image3.jpg" alt="사진3">
+    <img class="mySlides" src="image4.jpg" alt="사진4">
   </div>
   <script>
     let slideIndex = 1;
