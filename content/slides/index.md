@@ -20,31 +20,50 @@
       top: 0;
       left: 0;
     }
+    .slide-btn {
+      position: absolute;
+      top: 50%;
+      transform: translateY(-50%);
+      background: rgba(0,0,0,0.5);
+      color: #fff;
+      border: none;
+      padding: 10px 20px;
+      cursor: pointer;
+      z-index: 2;
+    }
+    .prev { left: 10px; }
+    .next { right: 10px; }
   </style>
 </head>
 <body>
   <h1>나의 취미</h1>
   <div class="slideshow-container">
+    <button class="slide-btn prev" onclick="plusSlides(-1)">&#10094;</button>
+    <button class="slide-btn next" onclick="plusSlides(1)">&#10095;</button>
     <img class="mySlides" src="featured1.jpg" alt="사진1">
     <img class="mySlides" src="featured2.jpg" alt="사진2">
     <img class="mySlides" src="featured3.jpg" alt="사진3">
     <img class="mySlides" src="featured4.jpg" alt="사진4">
   </div>
   <script>
-    let slideIndex = 0;
-    const slides = document.getElementsByClassName("mySlides");
-    function showSlides() {
-      for (let i = 0; i < slides.length; i++) {
+    let slideIndex = 1;
+    let timer = null;
+    showSlides(slideIndex);
+    function plusSlides(n) {
+      clearTimeout(timer);
+      showSlides(slideIndex += n);
+    }
+    function showSlides(n) {
+      let i;
+      let slides = document.getElementsByClassName("mySlides");
+      if (n > slides.length) {slideIndex = 1}
+      if (n < 1) {slideIndex = slides.length}
+      for (i = 0; i < slides.length; i++) {
         slides[i].style.display = "none";
       }
-      slideIndex++;
-      if (slideIndex > slides.length) {slideIndex = 1}
       slides[slideIndex-1].style.display = "block";
-      setTimeout(showSlides, 2000);
+      timer = setTimeout(function() { plusSlides(1); }, 2000);
     }
-    window.onload = function() {
-      showSlides();
-    };
   </script>
 </body>
 </html>
