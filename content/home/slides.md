@@ -4,7 +4,7 @@ widget: slider
 
 headless: true
 
-weight: 30
+weight: 40
 
 title: "나의 취미"
 date: 2022-03-02
