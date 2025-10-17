@@ -26,5 +26,5 @@ main:
     url: project/algorithm_learn/
     weight: 30  
   - name: 취미   
-    url: slider/
+    url: slides/
     weight: 40
