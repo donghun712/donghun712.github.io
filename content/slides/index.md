@@ -6,14 +6,19 @@
   <style>
     .slideshow-container {
       max-width: 600px;
+      height: 350px;
       position: relative;
       margin: auto;
+      overflow: hidden;
     }
     .mySlides {
       display: none;
       width: 100%;
       height: 350px;
       object-fit: cover;
+      position: absolute;
+      top: 0;
+      left: 0;
     }
   </style>
 </head>
@@ -26,17 +31,26 @@
   </div>
   <script>
     let slideIndex = 0;
-    showSlides();
+    const slides = document.getElementsByClassName("mySlides");
+
     function showSlides() {
-      let slides = document.getElementsByClassName("mySlides");
       for (let i = 0; i < slides.length; i++) {
         slides[i].style.display = "none";
       }
       slideIndex++;
       if (slideIndex > slides.length) {slideIndex = 1}
       slides[slideIndex-1].style.display = "block";
-      setTimeout(showSlides, 2000); // 2초마다 이미지 변경
+      setTimeout(showSlides, 2000);
     }
+
+    // 첫 그림만 보이고 겹치지 않게!
+    window.onload = function() {
+      for (let i = 0; i < slides.length; i++) {
+        slides[i].style.display = "none";
+      }
+      slideIndex = 0;
+      showSlides();
+    };
   </script>
 </body>
 </html>
