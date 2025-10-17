@@ -32,7 +32,6 @@
   <script>
     let slideIndex = 0;
     const slides = document.getElementsByClassName("mySlides");
-
     function showSlides() {
       for (let i = 0; i < slides.length; i++) {
         slides[i].style.display = "none";
@@ -42,8 +41,6 @@
       slides[slideIndex-1].style.display = "block";
       setTimeout(showSlides, 2000);
     }
-
-    // 첫 그림만 보이고 겹치지 않게!
     window.onload = function() {
       for (let i = 0; i < slides.length; i++) {
         slides[i].style.display = "none";
