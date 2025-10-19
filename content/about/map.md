@@ -10,12 +10,9 @@ headless: false
 
 weight: 60
 
-title: 주소
+title: 대학교 위치
 
 subtitle:
-
-header:
-  text: "## 대학교 위치"
 
 content:
   # Location coordinates
