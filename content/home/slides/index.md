@@ -1,7 +1,7 @@
 ---
 widget: slider
 headless: true
-weight: 1
+weight: 30
 
 # 제목과 부제목 추가
 title: '나의 취미'
