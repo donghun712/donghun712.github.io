@@ -5,7 +5,7 @@ headless: true
 weight: 40
 
 header:
-  text: "## 나의 취미"   # 제목 출력용
+  text: "## 나의 취미"
 
 design:
   slide_height: "350px"
