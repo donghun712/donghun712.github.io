@@ -23,7 +23,7 @@ organizations:
   url: "https://www.jbnu.ac.kr/web/index.do"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 제 관심 학습 분야는 데이터베이스, 알고리즘, 그리고 수학입니다.
 
 interests:
 - Database, DBMS
