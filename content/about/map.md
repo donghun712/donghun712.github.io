@@ -26,7 +26,7 @@ content:
 design:
 
   columns: '1'
-  map_height: "200px"
-  map_width: "80%" 
+  map_height: "100px"
+  map_width: "50%" 
 
 ---
