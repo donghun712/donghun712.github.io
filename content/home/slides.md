@@ -44,3 +44,5 @@ content:
         media: cook.jpg
         fit: cover
 ---
+
+나의 취미
