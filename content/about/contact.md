@@ -7,7 +7,7 @@ widget: contact
 headless: true
 
 # Order that this section appears on the page.
-weight: 50
+weight: 40
 
 title: 연락하기
 subtitle:

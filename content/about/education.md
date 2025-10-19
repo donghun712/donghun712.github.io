@@ -25,11 +25,11 @@ experience:
   - title: IT정보공학과 재학
     company: 전북대학교
     company_url: 'https://www.jbnu.ac.kr/web/index.do'
-    company_logo: org-x
+    company_logo: jbnu
     location: 전라북도-전주
     date_start: '2021-03-01'
     date_end: ''
-    description: 국궁 동아리 운영
+    description: 3학년 재학중
          
 
 design:
