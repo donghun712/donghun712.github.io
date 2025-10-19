@@ -1,5 +1,5 @@
 ---
-title: "나의 취미"
+title: "나의 취미?"
 widget: slider
 headless: false
 
