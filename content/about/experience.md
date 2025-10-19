@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Experience
+title: 경험
 subtitle:
 
 # Date format for experience
