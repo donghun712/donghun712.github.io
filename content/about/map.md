@@ -10,7 +10,7 @@ headless: false
 
 # Order that this section appears on the page.
 
-weight: 53
+weight: 60
 
 title: 대학교 주소
 
