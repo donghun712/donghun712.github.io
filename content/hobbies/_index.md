@@ -1,18 +1,18 @@
 ---
 title: "나의 취미"
 widget: slider
-headless: true      
+headless: true
 weight: 40
 
-content: |
-  ## 나의 취미
-  
+header:
+  text: "## 나의 취미"   # 제목 출력용
+
 design:
   slide_height: "350px"
   loop: true
   interval: 3000
 
-resources:                  # 페이지 번들 리소스 등록
+resources:
   - src: "arrow.jpg"
     name: "slide1"
   - src: "game.jpg"
