@@ -13,13 +13,13 @@ weight: 60
 title: 대학교 위치
 subtitle:
 
-header:
-  text: "대학교 위치"
 
 content:
+  # 안내
+  이 지도를 통해 대학교 위치를 확인하세요.
 
   coordinates:
-
+    
     latitude: '35.846015'
 
     longitude: '127.134543'
