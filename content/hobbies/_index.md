@@ -1,7 +1,7 @@
 ---
 title: "나의 취미?"
 widget: slider
-headless: false
+headless: true
 
 design:
   slide_height: "350px"
