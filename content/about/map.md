@@ -16,7 +16,7 @@ subtitle:
 
 content:
   # 안내
-  이 지도를 통해 대학교 위치를 확인하세요.
+  intro: "이 지도를 통해 대학교 위치를 확인하세요."
 
   coordinates:
     
