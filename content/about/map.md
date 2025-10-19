@@ -8,15 +8,13 @@ headless: false
 
 # Order that this section appears on the page.
 
-weight: 60
+weight: 70
 
 title: 대학교 위치
 subtitle:
 
 
 content:
-  html: |
-    <h2 class="section-title">대학교 위치</h2>
 
   coordinates:
     
@@ -29,3 +27,4 @@ design:
   columns: '1'
 ---
 
+학교 및 학과 위치입니다.
