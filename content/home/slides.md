@@ -1,6 +1,6 @@
 ---
 widget: slider
-headless: true
+headless: false
 weight: 30
 
 title: '나의 취미'
