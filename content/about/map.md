@@ -1,8 +1,6 @@
 ---
 widget: contact
 
-
-
 # This file represents a page section.
 
 headless: false
@@ -12,9 +10,12 @@ headless: false
 
 weight: 60
 
-title: 대학교 주소
+title: 주소
 
 subtitle:
+
+header:
+  text: "## 대학교 위치"
 
 content:
   # Location coordinates
