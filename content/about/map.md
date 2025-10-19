@@ -15,6 +15,8 @@ subtitle:
 
 
 content:
+  html: |
+    <h2 class="section-title">대학교 위치</h2>
 
   coordinates:
     
