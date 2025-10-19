@@ -20,7 +20,7 @@ content:
         position: center
         color: '#666'
         brightness: 0.7
-        media: image1.jpg
+        media: arrow.jpg
         fit: cover
     - title: 게임
       content: ''
@@ -29,7 +29,7 @@ content:
         position: center
         color: '#555'
         brightness: 0.7
-        media: image2.jpg
+        media: game.jpg
         fit: cover
     - title: 요리
       content: ''
@@ -38,6 +38,6 @@ content:
         position: center
         color: '#333'
         brightness: 0.7
-        media: image3.jpg
+        media: cook.jpg
         fit: cover
 ---
