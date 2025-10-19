@@ -8,32 +8,33 @@ design:
   loop: true
   interval: 3000
 
-resources:
-  - src: "arrow.jpg"
-    name: "slide1"
-  - src: "game.jpg"
-    name: "slide2"
-  - src: "cook.jpg"
-    name: "slide3"
-
 content:
   slides:
-    - title: "국궁"
+    - title: 국궁
+      content: ''
+      align: center
       background:
-        media: "slide1"
         position: center
-        fit: cover
+        color: '#666'
         brightness: 0.7
-    - title: "게임"
+        media: arrow.jpg
+        fit: cover
+    - title: 게임
+      content: ''
+      align: center
       background:
-        media: "slide2"
         position: center
-        fit: cover
+        color: '#555'
         brightness: 0.7
-    - title: "요리"
+        media: game.jpg
+        fit: cover
+    - title: 요리
+      content: ''
+      align: center
       background:
-        media: "slide3"
         position: center
-        fit: cover
+        color: '#333'
         brightness: 0.7
+        media: cook.jpg
+        fit: cover
 ---
