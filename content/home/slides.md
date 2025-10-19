@@ -6,6 +6,9 @@ weight: 30
 title: '나의 취미'
 subtitle: ''
 
+header:
+  text: "## 나의 취미"
+
 design:
   slide_height: '350px'
   loop: true
