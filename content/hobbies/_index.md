@@ -1,15 +1,15 @@
 ---
 title: "나의 취미"
 widget: slider
-headless: true             # 래퍼 숨김
-weight: 3
+headless: false            
+weight: 40
+
 design:
   slide_height: "350px"
   loop: true
   interval: 3000
 
-# page bundle 내 이미지 리소스 사용
-resources:
+resources:                  # 페이지 번들 리소스 등록
   - src: "arrow.jpg"
     name: "slide1"
   - src: "game.jpg"
