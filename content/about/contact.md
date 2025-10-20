@@ -28,3 +28,6 @@ content:
 design:
   columns: '1'
 ---
+<div class="text-justify">
+  궁금한 사항이 있으시면 아래 연락처 통해 언제든지 연락주세요. 빠른 시일 내에 답변드리겠습니다.
+</div>
