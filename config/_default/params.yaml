@@ -85,7 +85,7 @@ features:
     branch: main
   avatar:
     gravatar: false
-    shape: retangle
+    shape: circle
   comment:
     provider: ''
     disqus:
