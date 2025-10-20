@@ -17,10 +17,12 @@ body {
 // custom footer color
 .page-footer {
   background-color: rgb(247, 250, 252);
+  text-align: right;
 }
 
 .dark .page-footer {
   background-color: rgb(26, 32, 44);
+  text-align: right;
 }
 
 // more rounded cards and larger gap between cards
