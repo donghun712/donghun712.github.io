@@ -24,21 +24,21 @@ en:
       - name: About
         url: /about/
         weight: 20
-      - name: 학습 내용
+      - name: Project
         url: project/
         weight: 30
-      - name: C언어 공부
-        parent: 학습 내용
+      - name: C_learn
+        parent: project
         url: project/c_learn/
         weight: 10
-      - name: 데이터베이스 공부
-        parent: 학습 내용
+      - name: DB_learn
+        parent: project
         url: project/db_learn/
         weight: 20
-      - name: 알고리즘 공부
-        parent: 학습 내용 
+      - name: Algorithm_learn
+        parent: project 
         url: project/algorithm_learn/
         weight: 30  
-      - name: 연락처   
+      - name: contact   
         url: contact/
         weight: 40

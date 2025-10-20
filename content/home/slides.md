@@ -45,4 +45,3 @@ content:
         fit: cover
 ---
 
-나의 취미
