@@ -1,6 +1,6 @@
 ---
-title: DB 학습
-summary: 데이터베이스 학습 및 sqld 준비
+title: Studying Databases
+summary: Studying databases and preparing for the SQLD certification
 tags:
   - DB
 date: 2015-08-04

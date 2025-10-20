@@ -3,11 +3,11 @@ widget: slider
 headless: false
 weight: 30
 
-title: '나의 취미'
+title: 'My Hobbies'
 subtitle: ''
 
 header:
-  text: "## 나의 취미"
+  text: "## My Hobbies"
 
 design:
   slide_height: '350px'
@@ -16,7 +16,7 @@ design:
 
 content:
   slides:
-    - title: 국궁
+    - title: Korean Traditional Archery
       content: ''
       align: center
       background:
@@ -25,7 +25,7 @@ content:
         brightness: 0.7
         media: arrow.jpg
         fit: cover
-    - title: 게임
+    - title: Game
       content: ''
       align: center
       background:
@@ -34,7 +34,7 @@ content:
         brightness: 0.7
         media: game.jpg
         fit: cover
-    - title: 요리
+    - title: Cooking
       content: ''
       align: center
       background:
@@ -45,4 +45,3 @@ content:
         fit: cover
 ---
 
-나의 취미
