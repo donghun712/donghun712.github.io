@@ -18,6 +18,6 @@ en:
     description: Site description in English...
   menu:
     main:
-      - name: About
+      - name: Aboutssss
         url: '#about'
         weight: 1
