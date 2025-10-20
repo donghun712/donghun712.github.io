@@ -1,7 +1,7 @@
 ---
 widget: slider
 headless: false
-weight: 0
+weight: 30
 
 title: '나의 취미'
 subtitle: ''
@@ -16,7 +16,7 @@ design:
 
 content:
   slides:
-    - title: 국궁
+    - title: 좋아하는 스포츠
       content: ''
       align: center
       background:
@@ -25,7 +25,7 @@ content:
         brightness: 0.7
         media: arrow.jpg
         fit: cover
-    - title: 게임
+    - title: 좋아하는 게임
       content: ''
       align: center
       background:
@@ -34,7 +34,7 @@ content:
         brightness: 0.7
         media: game.jpg
         fit: cover
-    - title: 요리
+    - title: 취미
       content: ''
       align: center
       background:
@@ -45,5 +45,5 @@ content:
         fit: cover
 ---
 
-<h1 style="text-align: center;">좋아하는 앨범</h1>
+
 

@@ -16,7 +16,7 @@ design:
 
 content:
   slides:
-    - title: Korean Traditional Archery
+    - title: Favorite sport
       content: ''
       align: center
       background:
@@ -25,7 +25,7 @@ content:
         brightness: 0.7
         media: arrow.jpg
         fit: cover
-    - title: Game
+    - title: Favorite Game
       content: ''
       align: center
       background:
@@ -34,7 +34,7 @@ content:
         brightness: 0.7
         media: game.jpg
         fit: cover
-    - title: Cooking
+    - title: Hobby
       content: ''
       align: center
       background:
