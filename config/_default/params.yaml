@@ -52,7 +52,7 @@ header:
     highlight_active_link: false
 
 footer:
-  align: right
+  align: justify
   copyright:
     notice: '© {year} Me. This work is licensed under {license}'
     license:
@@ -85,7 +85,7 @@ features:
     branch: main
   avatar:
     gravatar: false
-    shape: circle
+    shape: retangle
   comment:
     provider: ''
     disqus:
