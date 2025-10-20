@@ -35,6 +35,3 @@ experience:
 design:
   columns: '1'
 ---
-<div class="text-justify">
-  제 학력입니다.
-</div>

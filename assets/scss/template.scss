@@ -17,10 +17,12 @@ body {
 // custom footer color
 .page-footer {
   background-color: rgb(247, 250, 252);
+  text-align: justify;
 }
 
 .dark .page-footer {
   background-color: rgb(26, 32, 44);
+  text-align: justify;
 }
 
 // more rounded cards and larger gap between cards
@@ -58,11 +60,13 @@ ul.network-icon .big-icon {
 .dark .portrait-title h3 {
   color: rgba(255, 255, 255, 0.9);
   font-weight: bold;
+  text-align: justify;
 }
 
 .dark .portrait-title h2 {
   color: #fff;
   font-weight: bold;
+  text-align: justify;
 }
 
 .home-section > .content {
@@ -110,10 +114,12 @@ ul.network-icon .big-icon {
 // Smaller Name and Role text on About page than in homepage `about.avatar` widget
 .wg-about .portrait-title h2 {
   font-size: 1rem;
+  text-align: justify;
 }
 
 .wg-about .portrait-title h3 {
   font-size: 0.8rem;
+  text-align: justify;
 }
 
 .text-justify {
@@ -121,15 +127,15 @@ ul.network-icon .big-icon {
 }
 
 /* Black theme */
-[data-theme="black"],
-.black {
+/*[data-theme="black"],
+#.black {
   background-color: #000;
   color: #fff;
 }
 [data-theme="black"] a,
 .black a {
   color: #fff;
-}
+}*/
 
 
 
