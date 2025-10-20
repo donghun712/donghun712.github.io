@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: 동아리 운영
+  - title: 국궁 동아리 운영
     company: 활빈
     company_url: ''
     company_logo: jbnu

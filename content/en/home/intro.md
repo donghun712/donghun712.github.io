@@ -26,7 +26,7 @@ author: admin
   
 ---
 
-👋 안녕하세요, 저는 전북대학교에서 컴퓨터 공학을 공부하고 있는 **김동훈** 입니다.
-{style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
+👋 Hello, I’m,**Donghun Kim**, studying Computer Engineering at Jeonbuk National University.
+{style="font-size: 1.2rem; background: #3CA0FF; background: linear-gradient(to right, #3CA0FF 0%, #1C7CFF 35%, #0066CC 65%, #004C99 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; color: #0A57D1;"}
 
-저의 [이력서](/about/) 와 포트폴리오를 확인해보세요 👋
+Please take a look at my [Resume](/about/) and portfolio 👋

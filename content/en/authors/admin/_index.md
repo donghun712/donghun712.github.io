@@ -1,10 +1,10 @@
 ---
 # Display name
-title: 김동훈
-tags: [김동훈, 전북대, 전북대학교]
+title: Donghun Kim
+tags: [Donghun Kim, JBNU , Jeonbuk National University]
 # Full name (for Seo)
-first_name: 동훈
-last_name: 김
+first_name: Donghun
+last_name: Kim
 
 # Status emoji
 status:
@@ -14,16 +14,16 @@ status:
 superuser: true
 
 # Role/position
-role: '대학생'
+role: 'Undergraduate Student'
 
 
 # Organizations/Affiliations
 organizations:
-- name: 전북대학교
+- name: Jeonbuk National University
   url: "https://www.jbnu.ac.kr/web/index.do"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 제 관심 학습 분야는 데이터베이스, 알고리즘, 그리고 수학입니다.
+bio: Primary learning interests include databases, algorithms, and mathematics.
 
 interests:
 - Database, DBMS
@@ -32,8 +32,8 @@ interests:
 
 education:
   courses:
-  - course: IT정보공학과 재학중
-    institution: 전북대학교
+  - course: B.S. in IT Information Engineering (in progress)
+    institution: Jeonbuk National University
     year: 2021
   
 
@@ -71,15 +71,15 @@ social:
 #email: ""
 ---
 
-전북대학교 컴퓨터 인공지능 학부에 재학중인 김동훈입니다.  
-수업과 프로젝트를 통해 데이터베이스와 알고리즘을 중심으로 기초를 쌓고 있습니다.  
-MySQL로 스키마 설계와 기본 쿼리 최적화를 꾸준히 연습하고 있습니다.  
-필요한 개념은 선형대수 등 수학적 기반을 공부하면서 차근차근 보완하고 있습니다.  
-작은 과제도 깃 브랜치로 나눠 진행하며 충돌 없이 정리하는 습관을 들이고 있습니다.  
-논리설계 과목에서 배운 2의 보수와 가산기 개념은 프로그램으로 구현까지 해보았습니다.  
-문제를 해결할 때 단계별로 쪼개서 재현 가능하게 해결하는 방식을 선호합니다.  
-학점과 장학 기준을 신경 쓰며 공부하고 있으며, 실력을 유지·개선하려 노력 중입니다.  
-관심 분야는 데이터베이스, 알고리즘, 그리고 이를 뒷받침하는 수학입니다.  
-팀 프로젝트에서는 역할을 명확히 나누고 일정 관리에 책임감을 갖는 편입니다.
+I am Donghun Kim, an undergraduate in the School of Computer Science and Artificial Intelligence at Jeonbuk National University.
+Through coursework and projects, I am building strong fundamentals with a focus on databases and algorithms.
+I practice schema design and basic query optimization regularly using MySQL.
+To reinforce necessary concepts, I steadily study the mathematical foundations such as linear algebra.
+Even for small tasks, I work on separate Git branches and keep the history organized to avoid conflicts.
+From a digital logic course, I implemented two’s complement and adder concepts in code.
+When solving problems, I prefer breaking them into reproducible steps and addressing them systematically.
+I study while keeping an eye on GPA and scholarship requirements, and I work to maintain and improve my skill set.
+My interests include databases, algorithms, and the mathematics that underpins them.
+In team projects, I prefer clear role definition and take responsibility for schedule management.
 
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} 제 이력서를 다운로드 받아보세요.
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} Download my resume.

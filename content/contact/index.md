@@ -12,4 +12,4 @@ date: 2025-10-19
 
 ## SNS 주소
 - 인스타그램: [@myprofile](https://instagram.com/donghun712)
-- Facebook: [My Facebook Page](https://www.facebook.com/gimdonghun.984618/)
+- 페이스북: [My Facebook Page](https://www.facebook.com/gimdonghun.984618/)

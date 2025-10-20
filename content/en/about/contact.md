@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: 연락하기
+title: contact
 subtitle:
 
 content:

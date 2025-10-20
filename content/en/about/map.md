@@ -10,7 +10,7 @@ headless: false
 
 weight: 70
 
-title: 대학교 위치
+title: Campus location
 subtitle:
 
 
