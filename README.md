@@ -1,32 +1,57 @@
-# [Hugo Portfolio Theme](https://github.com/wowchemy/starter-hugo-portfolio-theme)
+# 김동훈의 포트폴리오 웹사이트
 
-[![Screenshot](preview.png)](https://hugoblox.com/hugo-themes/)
+이 프로젝트는 **Hugo**와 **Wowchemy Hugo Portfolio Theme**를 사용하여 구축된 김동훈 개인 포트폴리오 사이트입니다.
 
-The **Hugo Portfolio Template** empowers you to easily create a portfolio website. Make it your own by choosing a color theme and grid layout!
+[🚀 웹사이트 바로가기](https://donghun712.github.io/)  
 
-️**Trusted by 250,000+ researchers, educators, and students.** Highly customizable via the integrated **no-code, widget-based Wowchemy page builder**, making every site truly personalized ⭐⭐⭐⭐⭐
+![사이트 미리보기](preview.png)
 
-[![Get Started](https://img.shields.io/badge/-Get%20started-ff4655?style=for-the-badge)](https://hugoblox.com/hugo-themes/)
-[![Discord](https://img.shields.io/discord/722225264733716590?style=for-the-badge)](https://discord.com/channels/722225264733716590/742892432458252370/742895548159492138)  
-[![Twitter Follow](https://img.shields.io/twitter/follow/GetResearchDev?label=Follow%20on%20Twitter)](https://twitter.com/wowchemy)
+---
 
-[Check out the latest demo](https://hugo-portfolio-theme.netlify.app/) of what you'll get in less than 10 minutes, or [view the showcase](https://hugoblox.com/creators/).
+## ✨ 주요 기술 스택
 
-The integrated [**Wowchemy**](https://hugoblox.com) website builder and CMS makes it easy to create a beautiful website for free. Edit your site in the CMS (or your favorite editor), generate it with [Hugo](https://github.com/gohugoio/hugo), and deploy with GitHub or Netlify. Customize anything on your site with widgets, light/dark themes, and language packs.
+- **Framework**: Hugo  
+- **Theme**: Wowchemy Hugo Portfolio Theme  
+- **배포**: GitHub Pages  
 
-- 👉 [**Get Started**](https://hugoblox.com/hugo-themes/)
-- 📚 [View the **documentation**](https://docs.hugoblox.com/)
-- 💬 [Chat with the **Wowchemy research community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- ⬇️ **Automatically import citations from BibTeX** with the [Hugo Academic CLI](https://github.com/GetRD/academic-file-converter)
-- 🐦 Share your new site with the community: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=%23MadeWithWowchemy&src=typed_query)
-- 🗳 [Take the survey and help us improve #OpenSource](https://forms.gle/NioD9VhUg7PNmdCAA)
-- 🚀 [Contribute improvements](https://github.com/HugoBlox/hugo-blox-builder/blob/main/CONTRIBUTING.md) or [suggest improvements](https://github.com/HugoBlox/hugo-blox-builder/issues)
-- ⬆️ **Updating?** View the [Update Guide](https://docs.hugoblox.com/hugo-tutorials/update/) and [Release Notes](https://github.com/HugoBlox/hugo-blox-builder/releases)
+---
 
-## We ask you, humbly, to support this open source movement
+## 📂 프로젝트 구조
 
-Today we ask you to defend the open source independence of the Wowchemy website builder and themes 🐧
+```
+.
+├── content/        # Markdown 기반 콘텐츠 (페이지, 프로젝트, 블로그)
+├── config/         # Hugo 설정 파일 (_default/config.toml, params.toml 등)
+├── static/         # 정적 자산 (이미지, CSS, JS)
+├── layouts/        # 레이아웃 커스텀 오버라이드
+├── resources/      # 처리된 리소스 (최적화된 이미지 등)
+└── data/           # 사이트 데이터 (메뉴, 소셜 링크 등)
+```
 
-We're an open source movement that depends on your support to stay online and thriving, but 99.9% of our creators don't give; they simply look the other way.
+---
 
-### [❤️ Click here to become a GitHub Sponsor, unlocking awesome perks such as _exclusive academic templates and widgets_](https://github.com/sponsors/gcushen)
+## 🚀 로컬 개발 환경
+
+### 사전 준비
+
+- Hugo 설치 가이드: https://gohugo.io/getting-started/installation/
+
+### 실행 방법
+
+```bash
+git clone https://github.com/donghun712/donghun712.github.io.git
+cd donghun712.github.io
+hugo server -D
+```
+
+브라우저에서 `http://localhost:1313/` 에 접속하여 확인하세요.
+
+---
+
+## ⚙️ 자동 배포
+
+`main` 브랜치에 푸시할 때마다 GitHub Pages가 자동으로 빌드 및 배포됩니다.
+
+---
+
+© 2025 김동훈. All rights reserved.
