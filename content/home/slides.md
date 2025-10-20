@@ -6,7 +6,7 @@ weight: 30
 title: '나의 취미'
 subtitle: ''
 
-slide_header:
+header:
   text: "## 나의 취미"
 
 design:
@@ -44,4 +44,6 @@ content:
         media: cook.jpg
         fit: cover
 ---
+
+<h1 style="text-align: center;">좋아하는 앨범</h1>
 
