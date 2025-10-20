@@ -47,7 +47,7 @@ social:
     link: mailto:nkdonghun712@gmail.com # For a direct email link, use "mailto:nkdonghun712@gmail.com".
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com
+    link: https://x.com/donghun712
   - icon: facebook
     icon_pack: fab
     link: https://www.facebook.com/gimdonghun.984618/
@@ -61,6 +61,9 @@ social:
   - icon: discord
     icon_pack: fab
     link: https://discord.com/users/738588132827463840
+  - icon: youtube
+    icon_pack: fab
+    link: https://www.youtube.com/@%EA%B9%80%EB%8F%99%ED%9B%88-x5m
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv

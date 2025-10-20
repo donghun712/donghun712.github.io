@@ -61,6 +61,9 @@ social:
   - icon: discord
     icon_pack: fab
     link: https://discord.com/users/738588132827463840
+  - icon: youtube
+    icon_pack: fab
+    link: https://www.youtube.com/@%EA%B9%80%EB%8F%99%ED%9B%88-x5m
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
