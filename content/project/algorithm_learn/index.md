@@ -6,4 +6,5 @@ tags:
   - AL
 date: 2020-09-02
 external_link: https://www.acmicpc.net/
+#Unsplash 이미지 사용
 ---
