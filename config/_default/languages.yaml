@@ -18,6 +18,9 @@ en:
     description: Site description in English...
   menu:
     main:
+      - name: Home
+        url: /
+        weight: 10
       - name: Aboutssss
         url: /about/
-        weight: 1
+        weight: 20
