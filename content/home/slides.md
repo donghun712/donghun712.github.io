@@ -6,7 +6,7 @@ weight: 30
 title: '나의 취미'
 subtitle: ''
 
-header:
+slide_header:
   text: "## 나의 취미"
 
 design:
