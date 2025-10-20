@@ -26,13 +26,13 @@ content:
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
-    - name: All
+    - name: 전체
       tag: '*'
-    - name: Computer Language Learning
+    - name: 컴퓨터 언어 공부
       tag: CL
-    - name: Database Learning
+    - name: 데이터 베이스 공부
       tag: DB
-    - name: Algorithm Learning
+    - name: 알고리즘 공부
       tag: AL
 
 design:
