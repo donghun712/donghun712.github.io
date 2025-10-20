@@ -1,5 +1,5 @@
 ---
-widget: map
+widget: contact
 
 # This file represents a page section.
 
