@@ -82,4 +82,4 @@ I study while keeping an eye on GPA and scholarship requirements, and I work to 
 My interests include databases, algorithms, and the mathematics that underpins them.
 In team projects, I prefer clear role definition and take responsibility for schedule management.
 
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} Download my resume.
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume_en.pdf" "newtab" >}}Download{{< /staticref >}} Download my resume.
