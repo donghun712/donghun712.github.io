@@ -1,7 +1,7 @@
 ---
 widget: slider
 headless: false
-weight: 30
+weight: 0
 
 title: '나의 취미'
 subtitle: ''
